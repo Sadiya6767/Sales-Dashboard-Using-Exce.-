@@ -2,7 +2,7 @@
 
 ## 🚀 Overview  
 Welcome to the Sales Dashboard project repository!
-This project focuses on analyzing sales data of a US-based company (2014–2017) and transforming raw data into meaningful insights using Microsoft Excel.
+This project focuses on analyzing raw sales data of a US-based company (2014–2017) and transforming raw data into meaningful insights using Microsoft Excel.
 An interactive dashboard has been created to help explore key business metrics such as revenue trends, profitability, customer performance, and regional sales distribution.
 
 ---
