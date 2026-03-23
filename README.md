@@ -33,7 +33,7 @@ To convert raw sales data into actionable insights that support data-driven deci
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard](Sales Dashboard - Excel.png)
+![Dashboard](dashboard.png)
 
 ---
 
